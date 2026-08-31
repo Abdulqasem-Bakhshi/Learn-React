@@ -1,4 +1,13 @@
-# React + Vite
+## Learn-React
+
+In this repo you will find all of my learning projects for React. Each learning project is separated by a folder.
+
+## Resources I'm using for learning React
+
+freecodecamp (Learn React JS - Full Beginner’s Tutorial & Practice Projects) @ https://www.youtube.com/watch?v=x4rFhThSX04
+freecodecamp @ https://www.freecodecamp.org/news/react-for-beginners-handbook/#heading-your-first-react-application
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
